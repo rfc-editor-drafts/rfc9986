@@ -1129,7 +1129,7 @@ Table of Contents
    authentication and Meticulous Keyed ISAAC, ISAAC Format as the less
    computationally intensive authentication.
 
-   <CODE BEGINS> file "ietf-bfd-met-keyed-isaac@2026-05-21.yang"
+   <CODE BEGINS> file "ietf-bfd-met-keyed-isaac@2026-06-19.yang"
    module ietf-bfd-met-keyed-isaac {
      yang-version 1.1;
      namespace "urn:ietf:params:xml:ns:yang:ietf-bfd-met-keyed-isaac";
@@ -1173,7 +1173,7 @@ Table of Contents
         (https://www.rfc-editor.org/info/rfc9986); see the RFC itself
         for full legal notices.";
 
-     revision 2026-05-21 {
+     revision 2026-06-19 {
        description
          "Initial Version.";
        reference
