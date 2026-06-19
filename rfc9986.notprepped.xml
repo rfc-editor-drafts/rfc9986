@@ -13,7 +13,7 @@
     <title abbrev="ISAAC Authentication">Meticulous Keyed ISAAC for
     Bidirectional Forwarding Detection (BFD) Optimized Authentication</title>
     <seriesInfo name="RFC" value="9986"/>
-    <author fullname="Alan DeKok" initials="A" surname="Dekok">
+    <author fullname="Alan DeKok" initials="A." surname="Dekok">
       <organization>InkBridge Networks</organization>
       <address>
         <postal>
@@ -26,13 +26,13 @@
         <email>alan.dekok@inkbridge.io</email>
       </address>
     </author>
-    <author fullname="Mahesh Jethanandani" initials="M" surname="Jethanandani">
+    <author fullname="Mahesh Jethanandani" initials="M." surname="Jethanandani">
       <organization>Arrcus</organization>
       <address>
         <email>mjethanandani@gmail.com</email>
       </address>
     </author>
-    <author fullname="Sonal Agarwal" initials="S" surname="Agarwal">
+    <author fullname="Sonal Agarwal" initials="S." surname="Agarwal">
       <organization>Arrcus, Inc.</organization>
       <address>
         <postal>
@@ -45,7 +45,7 @@
         <email>sagarwal12@gmail.com</email>
       </address>
     </author>
-    <author fullname="Ashesh Mishra" initials="A" surname="Mishra">
+    <author fullname="Ashesh Mishra" initials="A." surname="Mishra">
       <organization>Aalyria Technologies</organization>
       <address>
         <email>ashesh@aalyria.com</email>

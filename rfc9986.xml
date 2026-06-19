@@ -1,12 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
-<rfc xmlns:xi="http://www.w3.org/2001/XInclude" version="3" category="exp" docName="draft-ietf-bfd-secure-sequence-numbers-27" number="9986" updates="" obsoletes="" ipr="trust200902" submissionType="IETF" consensus="true" tocInclude="true" tocDepth="3" symRefs="true" sortRefs="true" xml:lang="en" prepTime="2026-06-19T20:10:41" indexInclude="true" scripts="Common,Latin">
+<rfc xmlns:xi="http://www.w3.org/2001/XInclude" version="3" category="exp" docName="draft-ietf-bfd-secure-sequence-numbers-27" number="9986" updates="" obsoletes="" ipr="trust200902" submissionType="IETF" consensus="true" tocInclude="true" tocDepth="3" symRefs="true" sortRefs="true" xml:lang="en" prepTime="2026-06-19T20:31:43" indexInclude="true" scripts="Common,Latin">
   <link href="https://datatracker.ietf.org/doc/draft-ietf-bfd-secure-sequence-numbers-27" rel="prev"/>
   <link href="https://dx.doi.org/10.17487/rfc9986" rel="alternate"/>
   <link href="urn:issn:2070-1721" rel="alternate"/>
   <front>
     <title abbrev="ISAAC Authentication">Meticulous Keyed ISAAC for Bidirectional Forwarding Detection (BFD) Optimized Authentication</title>
     <seriesInfo name="RFC" value="9986" stream="IETF"/>
-    <author fullname="Alan DeKok" initials="A" surname="Dekok">
+    <author fullname="Alan DeKok" initials="A." surname="Dekok">
       <organization showOnFrontPage="true">InkBridge Networks</organization>
       <address>
         <postal>
@@ -19,13 +19,13 @@
         <email>alan.dekok@inkbridge.io</email>
       </address>
     </author>
-    <author fullname="Mahesh Jethanandani" initials="M" surname="Jethanandani">
+    <author fullname="Mahesh Jethanandani" initials="M." surname="Jethanandani">
       <organization showOnFrontPage="true">Arrcus</organization>
       <address>
         <email>mjethanandani@gmail.com</email>
       </address>
     </author>
-    <author fullname="Sonal Agarwal" initials="S" surname="Agarwal">
+    <author fullname="Sonal Agarwal" initials="S." surname="Agarwal">
       <organization showOnFrontPage="true">Arrcus, Inc.</organization>
       <address>
         <postal>
@@ -38,7 +38,7 @@
         <email>sagarwal12@gmail.com</email>
       </address>
     </author>
-    <author fullname="Ashesh Mishra" initials="A" surname="Mishra">
+    <author fullname="Ashesh Mishra" initials="A." surname="Mishra">
       <organization showOnFrontPage="true">Aalyria Technologies</organization>
       <address>
         <email>ashesh@aalyria.com</email>
@@ -2104,7 +2104,7 @@ otherwise be reset.</t>
     </section>
     <section anchor="authors-addresses" numbered="false" removeInRFC="false" toc="include" pn="section-appendix.c">
       <name slugifiedName="name-authors-addresses">Authors' Addresses</name>
-      <author fullname="Alan DeKok" initials="A" surname="Dekok">
+      <author fullname="Alan DeKok" initials="A." surname="Dekok">
         <organization showOnFrontPage="true">InkBridge Networks</organization>
         <address>
           <postal>
@@ -2117,13 +2117,13 @@ otherwise be reset.</t>
           <email>alan.dekok@inkbridge.io</email>
         </address>
       </author>
-      <author fullname="Mahesh Jethanandani" initials="M" surname="Jethanandani">
+      <author fullname="Mahesh Jethanandani" initials="M." surname="Jethanandani">
         <organization showOnFrontPage="true">Arrcus</organization>
         <address>
           <email>mjethanandani@gmail.com</email>
         </address>
       </author>
-      <author fullname="Sonal Agarwal" initials="S" surname="Agarwal">
+      <author fullname="Sonal Agarwal" initials="S." surname="Agarwal">
         <organization showOnFrontPage="true">Arrcus, Inc.</organization>
         <address>
           <postal>
@@ -2136,7 +2136,7 @@ otherwise be reset.</t>
           <email>sagarwal12@gmail.com</email>
         </address>
       </author>
-      <author fullname="Ashesh Mishra" initials="A" surname="Mishra">
+      <author fullname="Ashesh Mishra" initials="A." surname="Mishra">
         <organization showOnFrontPage="true">Aalyria Technologies</organization>
         <address>
           <email>ashesh@aalyria.com</email>
