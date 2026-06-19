@@ -2,7 +2,7 @@
 
 
 
-Internet Engineering Task Force (IETF)                          A. Dekok
+Internet Engineering Task Force (IETF)                          A. DeKok
 Request for Comments: 9986                            InkBridge Networks
 Category: Experimental                                   M. Jethanandani
 ISSN: 2070-1721                                                   Arrcus

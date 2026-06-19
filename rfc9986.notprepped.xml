@@ -13,7 +13,7 @@
     <title abbrev="ISAAC Authentication">Meticulous Keyed ISAAC for
     Bidirectional Forwarding Detection (BFD) Optimized Authentication</title>
     <seriesInfo name="RFC" value="9986"/>
-    <author fullname="Alan DeKok" initials="A." surname="Dekok">
+    <author fullname="Alan DeKok" initials="A." surname="DeKok">
       <organization>InkBridge Networks</organization>
       <address>
         <postal>
